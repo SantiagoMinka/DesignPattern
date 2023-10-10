@@ -1,4 +1,10 @@
-# DesignPattern
+# Taller patrones de diseño
+## Integrantes
+Stephany Gaitán  
+Luisa Galvis  
+Santiago Arévalo  
+Liseth Jimenez  
+Jairo Cuartas
 ## Reportes
 ## Biblioteca
 ## Juego
