@@ -1,6 +1,6 @@
 package org.unisabana.reports;
 
-public class PDF extends Informe {
+public class PDF extends Formato {
 
 	@Override
 	public void formatearResultado() {

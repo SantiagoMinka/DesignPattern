@@ -1,6 +1,6 @@
 package org.unisabana.reports;
 
-public class HTML extends Informe {
+public class HTML extends Formato {
 
 	@Override
 	public void formatearResultado() {

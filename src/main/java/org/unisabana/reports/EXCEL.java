@@ -1,6 +1,6 @@
 package org.unisabana.reports;
 
-public class EXCEL extends Informe {
+public class EXCEL extends Formato {
 
 	@Override
 	public void formatearResultado() {
@@ -12,4 +12,5 @@ public class EXCEL extends Informe {
 	public void generarDocumento() {
 		System.out.println("Paso 4: Generar documento EXCEL");
 	}
+
 }
