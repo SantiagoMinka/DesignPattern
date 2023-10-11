@@ -6,6 +6,7 @@ Santiago Arévalo
 Liseth Jimenez  
 Jairo Cuartas
 ## Reportes
+![image info](./src/main/java/org/unisabana/reports/UML.png)
 ## Biblioteca
 ## Juego
 Patrón creacional prototype
