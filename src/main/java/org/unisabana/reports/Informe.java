@@ -2,19 +2,20 @@ package org.unisabana.reports;
 
 public abstract class Informe {
 
-	public final void generarInforme(String tipoFormato) {
+	public final void generarInforme() {
 		consultarBD();
-		aplicarCalculo();
-		imprimirInforme(tipoFormato);
+		aplicarCalculos();
+		formatearDatos();
+		imprimirInforme();
 	}
 
 	private void consultarBD() {
-		System.out.println("Paso 1: Obtener datos de BD");
+		System.out.println("Paso 1: Obtener datos de la BD");
 	}
 
-	public abstract void aplicarCalculo();
+	public abstract void aplicarCalculos();
 
-	private void imprimirInforme(String tipoFormato) {
+	public abstract void formatearDatos();
 
-	}
+	public abstract void imprimirInforme();
 }
