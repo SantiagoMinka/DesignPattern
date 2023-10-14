@@ -7,8 +7,12 @@ Liseth Jimenez
 Jairo Cuartas
 ## Reportes
 Patrón estructural: Template Method
+![image info](./src/main/java/org/unisabana/reports/UML.png)
 
 ## Biblioteca
+Patrón estructural: Adapter
+![image info](./src/main/java/org/unisabana/library/UML.png)
+
 ## Juego
 Patrón creacional: Prototype
 ![image info](./src/main/java/org/unisabana/game/UML.png)
